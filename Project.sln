@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bantas_IPT101_WPF", "Bantas_IPT101_WPF\Bantas_IPT101_WPF.csproj", "{DC118862-8D22-47BF-B0BC-7A10399DAFEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC118862-8D22-47BF-B0BC-7A10399DAFEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC118862-8D22-47BF-B0BC-7A10399DAFEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC118862-8D22-47BF-B0BC-7A10399DAFEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC118862-8D22-47BF-B0BC-7A10399DAFEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {765E28F8-0814-49C1-819A-D974EAC6ECBE}
+	EndGlobalSection
+EndGlobal
